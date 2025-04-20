@@ -1,0 +1,16 @@
+PODS:
+  - MHSConnector (0.1.0)
+
+DEPENDENCIES:
+  - MHSConnector (from `../`)
+
+EXTERNAL SOURCES:
+  MHSConnector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHSConnector: 89b7bd9ab7fd4b63d9b3bcf4d1feda9152994d4c
+
+PODFILE CHECKSUM: 19b72948e5d555281fddaf2a74d280b83f09c3fa
+
+COCOAPODS: 1.16.2

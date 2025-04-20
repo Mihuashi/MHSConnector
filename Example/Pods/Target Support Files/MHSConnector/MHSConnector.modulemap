@@ -1,0 +1,6 @@
+framework module MHSConnector {
+  umbrella header "MHSConnector-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MHSConnector",
+  "version": "0.1.0",
+  "summary": "A short description of MHSConnector.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuliu/MHSConnector",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuliu": "1172436954@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liuliu/MHSConnector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MHSConnector/Classes/**/*"
+}
