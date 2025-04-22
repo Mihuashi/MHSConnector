@@ -11,11 +11,11 @@
 @class MHSContext;
 
 /// 组件优先级，层级越低应该优先级越高，需要根据逻辑来指定优先级
-typedef NS_ENUM(NSInteger, JDCModulePriority) {
-    JDCModulePriorityDefault = 0,
-    JDCModulePriorityLow = 100,
-    JDCModulePriorityModdle = 500,
-    JDCModulePriorityHigh = 1000
+typedef NS_ENUM(NSInteger, MHSModulePriority) {
+    MHSModulePriorityDefault = 0,
+    MHSModulePriorityLow = 100,
+    MHSModulePriorityModdle = 500,
+    MHSModulePriorityHigh = 1000
 };
 
 NS_ASSUME_NONNULL_BEGIN
