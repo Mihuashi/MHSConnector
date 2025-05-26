@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MHSConnector'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'MHSConnector组件'
 
-  s.description      = 'MHSConnector 组件'
+  s.description      = '组件间通讯工具组件'
 
   s.homepage         = 'https://github.com/Mihuashi/MHSConnector.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
