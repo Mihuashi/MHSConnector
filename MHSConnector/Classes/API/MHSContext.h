@@ -21,7 +21,8 @@
 @property (nonatomic, strong) UIViewController *rootViewController;
 
 @property (nonatomic, copy) NSString *protocolSubfix;
-// 应用启动后多久触发环境搭建完成事件，即：搭建环境时长，单位秒，默认5秒
+/// 应用启动后多久触发环境搭建完成事件
+/// 搭建环境时长，单位秒，默认5秒
 @property (nonatomic, assign) NSTimeInterval environmentSetupInterval;
 
 
