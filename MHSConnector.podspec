@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MHSConnector'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'MHSConnector组件'
 
   s.description      = 'MHSConnector 组件'
